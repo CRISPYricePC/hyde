@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Writing a terrible program taught me a lot about C
 ---
 
