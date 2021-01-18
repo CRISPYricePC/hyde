@@ -2,7 +2,7 @@
 title:            Ben Mitchell
 tagline:          'Welcome to my site!'
 description:      'Computer Science @<a href="https://leeds.ac.uk" target="_blank">University of Leeds</a>'
-url:              'http://localhost:4000'
+url:              'https://benmitchell.dev'
 baseurl:          ''
 paginate:         5
 
