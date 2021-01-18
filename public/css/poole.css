@@ -131,7 +131,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #4C566A;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #2E3440;
+  color: #4C566A;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -182,7 +182,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #4C566A;
 }
 
 
@@ -211,7 +211,7 @@ hr {
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: #4C566A;
   text-transform: uppercase;
 }
 abbr[title] {
@@ -227,7 +227,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #EBCB8B;
+  color: #A3BE8C;
   background-color: #2E3440;
   border-radius: 3px;
 }

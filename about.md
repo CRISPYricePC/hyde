@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  I'm a computer science student studying at the University of Leeds, going by the super sneaky internet name of CRISPYrice and variations of such, but you can call me Ben. My social links are on that pesky float on the left.
-</p>
+I'm a computer science student studying at the University of Leeds, going by the super sneaky internet name of CRISPYrice and variations of such, but you can call me Ben. My social links are on the left.
 
 ## My Work
 I have a [GitHub](https://github.com/CRISPYricePC) *and* a [GitLab](https://gitlab.com/CRISPYrice), for personal projects and work respectively. A lot of my projects are private since I'm new to the business of portfolios, but my blog posts should be highlighting the work that I've been doing behind the scenes.
