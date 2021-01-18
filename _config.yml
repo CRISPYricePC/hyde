@@ -27,3 +27,7 @@ gitlab:
 
 # Custom vars
 version:          3.0.0
+
+# CSS
+sass:
+  sass_dir:     ./_scss
