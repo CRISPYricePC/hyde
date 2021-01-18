@@ -224,7 +224,7 @@ a.sidebar-nav-item:focus {
 
 /* Blue */
 .theme-base-0d,
-.theme-base-08 .message {
+.theme-base-0d .message {
   background-color: #E5E9F0;
 }
 .theme-base-0d .sidebar {
@@ -232,7 +232,7 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
-  color: #A3BE8C;
+  color: #4C566A;
 }
 
 /* Magenta */

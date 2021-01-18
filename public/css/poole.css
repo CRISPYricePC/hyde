@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #2E3440;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -227,8 +227,8 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
+  color: #EBCB8B;
+  background-color: #2E3440;
   border-radius: 3px;
 }
 pre {
@@ -242,7 +242,9 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f9f9f9;
+  border-radius: 3px;
+  color: #D8DEE9;
+  background-color: #2E3440;
 }
 pre code {
   padding: 0;
@@ -286,8 +288,8 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  color: #4C566A;
+  border-left: .25rem solid #A3BE8C;
 }
 blockquote p:last-child {
   margin-bottom: 0;
