@@ -183,7 +183,7 @@ p {
 
 em {
   font-style: italic;
-  color: #A3BE8C;
+  color: #8FBCBB;
 }
 
 strong {
@@ -232,7 +232,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #A3BE8C;
+  color: #8FBCBB;
   background-color: #2E3440;
   border-radius: 3px;
 }
@@ -294,7 +294,7 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #4C566A;
-  border-left: .25rem solid #A3BE8C;
+  border-left: .25rem solid #8FBCBB;
 }
 blockquote p:last-child {
   margin-bottom: 0;
