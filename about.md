@@ -4,26 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  I'm a computer science student studying at the University of Leeds, going by the super sneaky internet name of CRISPYrice and variations of such, but you can call me Ben. My social links are on that pesky float on the left.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## My Work
+I have a [GitHub](https://github.com/CRISPYricePC) *and* a [GitLab](https://gitlab.com/CRISPYrice), for personal projects and work respectively. A lot of my projects are private since I'm new to the business of portfolios, but my blog posts should be highlighting the work that I've been doing behind the scenes.
 
-There are currently two themes built on Poole:
+## My Hobbies
+Since you're here and I have a blog, I also should let you know that I play the violin, and thus have a passion for all things musical. That includes musicals, classicals, filmsicals and videogamesicals. I made a post way back when talking about the soundtrack of an indie game hit, and I plan to keep that up too, so expect to see a lot of hobby-based posts interspersed between the more work-heavy ones.
 
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
+## My Dog
+Now for the most important section of any site: Dog appreciation!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Observe:
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<img src="/public/images/fargo.jpg" alt="Fargo (the dog) on a beach" width="512"/>

@@ -1,20 +1,29 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            Ben Mitchell
+tagline:          'Welcome to my site!'
+description:      'Computer Science @ the <a href="https://leeds.ac.uk" target="_blank">University of Leeds</a>'
+url:              'http://localhost:4000'
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ben Mitchell'
+  url:            https://twitter.com/benjomit
 
 # Gems
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+# GitHub
+github:
+  user:           https://github.com/CRISPYricePC
+  repo:           https://github.com/CRISPYricePC/hyde
+
+# GitLab
+gitlab:
+  user:           https://gitlab.com/CRISPYrice
 
 # Custom vars
 version:          3.0.0
