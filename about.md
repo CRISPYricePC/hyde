@@ -16,4 +16,4 @@ Now for the most important section of any site: Dog appreciation!
 
 Observe:
 
-<img src="/public/images/fargo.jpg" alt="Fargo (the dog) on a beach" width="512"/>
+![Fargo (the dog) on a beach](/public/images/fargo.jpg)
