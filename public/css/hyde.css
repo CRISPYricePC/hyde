@@ -233,6 +233,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
   color: #4C566A;
+  font-weight: bold;
 }
 
 /* Magenta */
