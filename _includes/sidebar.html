@@ -26,8 +26,11 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.user }}">My GitHub</a>
-      <a class="sidebar-nav-item" href="{{ site.gitlab.user }}">My GitLab</a>
+      <p class="sidebar-nav-item">
+        <a href="{{ site.github.user }}">GitHub</a>
+         | 
+        <a href="{{ site.gitlab.user }}">GitLab</a>
+      </p>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">Source Code</a>
     </nav>
 
